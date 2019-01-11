@@ -1,0 +1,22 @@
+.weather {
+    text-align: center;
+}
+.weather span {
+    display: block;
+}
+.weather__img {
+    margin: 0 auto;
+}
+.weather__title {
+    display: block;
+}
+.weather__desc {
+    color: #565656;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.weather__temp {
+    font-size: 30px;
+    color: #89caff;
+    font-weight: 700;
+}
